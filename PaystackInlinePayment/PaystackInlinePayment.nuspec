@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Xam.Plugin.PaystackInline</id>
+    <version>1.0.0</version>
+    <title>Paystack Inline Payment for Xamarin and Windows</title>
+    <authors>Akinnagbe Olamide James</authors>
+    <owners>Akinnagbe Olamide James</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin and Window Plugin to make payment with Debit Card using Paystack Inline</description>
+    <releaseNotes>Paystack Inline Payment for Xamarin and Windows</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Xamarin PaystackInline</tags>
+  </metadata>
+</package>
